@@ -1,0 +1,91 @@
+<RCC>
+    <qresource prefix="/backgrounds">
+        <file>res/button.png</file>
+        <file>res/button_not_enable.png</file>
+        <file>res/button_pressed.png</file>
+        <file>res/fon_battle1.jpg</file>
+        <file>res/fon_battle2.jpg</file>
+        <file>res/fon_battle3.jpg</file>
+        <file>res/menu_background.jpg</file>
+        <file>res/ribbon_lose.png</file>
+        <file>res/background_page.png</file>
+        <file>res/fon_create_hero.png</file>
+        <file>res/null.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>res/fantasy.ttf</file>
+    </qresource>
+    <qresource prefix="/units"/>
+    <qresource prefix="/sounds">
+        <file>res/sounds/b_1.wav</file>
+        <file>res/sounds/b_2.wav</file>
+        <file>res/sounds/b_3.wav</file>
+        <file>res/sounds/b_4.wav</file>
+        <file>res/sounds/b_5.wav</file>
+        <file>res/sounds/b_spell1.wav</file>
+        <file>res/sounds/b_spell2.wav</file>
+        <file>res/sounds/castlecall.mp3</file>
+        <file>res/sounds/click1.wav</file>
+        <file>res/sounds/freedom.wav</file>
+        <file>res/sounds/h_1.wav</file>
+        <file>res/sounds/h_2.wav</file>
+        <file>res/sounds/h_3.wav</file>
+        <file>res/sounds/h_4.wav</file>
+        <file>res/sounds/h_5.wav</file>
+        <file>res/sounds/h_spell2.wav</file>
+        <file>res/sounds/h_spell4.wav</file>
+        <file>res/sounds/h_spell5.wav</file>
+        <file>res/sounds/m_1.wav</file>
+        <file>res/sounds/m_2.wav</file>
+        <file>res/sounds/m_3.wav</file>
+        <file>res/sounds/m_4.wav</file>
+        <file>res/sounds/m_5.wav</file>
+        <file>res/sounds/m_spell2.wav</file>
+        <file>res/sounds/m_spell3.wav</file>
+        <file>res/sounds/m_spell4.wav</file>
+        <file>res/sounds/m_spell5.wav</file>
+        <file>res/sounds/p_1.wav</file>
+        <file>res/sounds/p_2.wav</file>
+        <file>res/sounds/p_3.wav</file>
+        <file>res/sounds/p_5.wav</file>
+        <file>res/sounds/p_spell3.wav</file>
+        <file>res/sounds/p_spell4.wav</file>
+        <file>res/sounds/r_1.wav</file>
+        <file>res/sounds/r_2.wav</file>
+        <file>res/sounds/r_3.wav</file>
+        <file>res/sounds/r_4.wav</file>
+        <file>res/sounds/r_5.wav</file>
+        <file>res/sounds/r_spell2.wav</file>
+        <file>res/sounds/r_spell5.wav</file>
+        <file>res/sounds/w_1.wav</file>
+        <file>res/sounds/w_2.wav</file>
+        <file>res/sounds/w_3.wav</file>
+        <file>res/sounds/w_4.wav</file>
+        <file>res/sounds/w_5.wav</file>
+        <file>res/sounds/w_spell2.wav</file>
+        <file>res/sounds/w_spell4.wav</file>
+        <file>res/sounds/w_spell5.wav</file>
+    </qresource>
+    <qresource prefix="/spell">
+        <file>res/spells/w_spell_1.png</file>
+        <file>res/spells/w_spell_2.png</file>
+        <file>res/spells/w_spell_3.png</file>
+        <file>res/spells/w_spell_4.png</file>
+        <file>res/spells/w_spell_5.png</file>
+    </qresource>
+    <qresource prefix="/unit_r"/>
+    <qresource prefix="/unit">
+        <file>w_0.png</file>
+        <file>w_0_r.png</file>
+        <file>w_1.png</file>
+        <file>w_1_r.png</file>
+        <file>w_2.png</file>
+        <file>w_2_r.png</file>
+        <file>w_3.png</file>
+        <file>w_3_r.png</file>
+        <file>w_4.png</file>
+        <file>w_4_r.png</file>
+        <file>w_5.png</file>
+        <file>w_5_r.png</file>
+    </qresource>
+</RCC>
